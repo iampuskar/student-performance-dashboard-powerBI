@@ -3,7 +3,7 @@
 ### 🚀 Project Overview
 The **Student Performance Analytics Dashboard** provides a comprehensive visual representation of student data, enabling educational institutions to track, analyze, and improve academic performance. This dashboard leverages Power BI to present insightful metrics and interactive visualizations.
 
-![image](https://github.com/user-attachments/assets/87f56904-0fca-45c8-b7a7-50c6152bca95)
+![image](https://github.com/user-attachments/assets/6ae780ee-5e92-494d-966f-3ffc7646be70)
 
 
 ### 🛠️ Tools and Technologies
